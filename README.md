@@ -7,4 +7,5 @@ We're using a technique called lift here. In general, it is easier to compare da
 From the final result, we reach the conclusion of below:
 When brands compete by differentiating themselves to tap niche market, they’re not necessarily competitors. Therefore, we should choose brands from a specific subcategory where competition is high.
 
-https://user-images.githubusercontent.com/111807480/244110892-986d4214-f690-4cb4-9e63-93ce42aa1f63.png
+
+![lift map](https://github.com/ROBINYXY/Marketing/assets/111807480/324c0104-1112-4c18-bc49-41ab323d9888)
